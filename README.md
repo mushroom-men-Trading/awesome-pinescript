@@ -54,7 +54,7 @@
 
 ## Indicators
 ### Interesting
-- [Cycles Analysis](https://www.tradingview.com/script/fqnXJggs-Cycles-Analysis/) - *Gives a visual representation of bull/bear markets and gives a prediction based on the previous data. * 
+- [Cycles Analysis](https://www.tradingview.com/script/fqnXJggs-Cycles-Analysis/) - *Gives a visual representation of bull/bear markets and give s a prediction based on the previous data. * 
 - [Developing Market Profile](https://www.tradingview.com/script/XMKe97Vn-Developing-Market-Profile-TPO-Honestcowboy/) - *Developing Market Profile will change bar by bar and display PRICE in relation to TIME for a user specified number of past bars.*
 - [Flag Finder](https://www.tradingview.com/script/DU228Vjm-Flag-Finder/) - *Flag Finder Indicator is a technical analysis tool to identify bull and bear flags.*
 - [Fundamentals Graphing](https://www.tradingview.com/script/7qjXp2op-Fundamentals-Graphing-Kioseff-Trading/) - *Really cool way of graphing with Pine Script!*
